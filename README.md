@@ -1,1 +1,2 @@
 # Tic_Tac_Toe
+A simple tic tac toe and learning basic python.
